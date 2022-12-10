@@ -12,5 +12,5 @@ Anerox helps you organize your photos into albums so that it's easier to find th
 
 
 # Demo
-https://kosasih-anerox.hf.space
+Check our demo site [here](https://kosasih-anerox.hf.space) 
 
