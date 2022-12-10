@@ -10,7 +10,6 @@ With Anerox, you can discover new photos by using auto-tagging to find similar o
 
 Anerox helps you organize your photos into albums so that it's easier to find the ones you want. You can also organize your albums into collections so that it's easier to find them when you're looking for them again later!
 
-Anerox is free for personal use.
 
 # Demo
 https://kosasih-anerox.hf.space
