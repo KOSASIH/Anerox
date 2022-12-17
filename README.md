@@ -15,4 +15,4 @@ Anerox helps you organize your photos into albums so that it's easier to find th
 Check our demo site: 
 1. [Stable-Difussion](https://kosasih-1-anerox-stable-difussion.hf.space) 
 2. [gpt2](https://kosasih-anerox.hf.space) 
-
+3. [jean-baptiste-camembert](https://kosasih-1-anerox-jean-baptiste-camembert-n-369994d.hf.space) 
