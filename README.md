@@ -11,6 +11,8 @@ With Anerox, you can discover new photos by using auto-tagging to find similar o
 Anerox helps you organize your photos into albums so that it's easier to find the ones you want. You can also organize your albums into collections so that it's easier to find them when you're looking for them again later!
 
 
+In addition to the above, Anerox technology is also connected and can be linked with the ChatGpt model, gpt2, Autotraining, and various other organizations such as Google, Microsoft, OpenAI etc.
+
 # Demo
 Check our demo site: 
 1. [Stable-Difussion](https://kosasih-1-anerox-stable-difussion.hf.space) 
