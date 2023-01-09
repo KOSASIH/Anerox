@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KOSASIH/Anerox-ML/main?labpath=README.md)
 
 # Anerox
-Anerox Machine Learning project Repository
+Anerox is smart app powered by AI and Machine Learning algorithm
 
 # Description
 Anerox is a smart app powered by Machine Learning. It can automatically detect faces, objects and text in your photos. It also identifies your friends, pets and places!
